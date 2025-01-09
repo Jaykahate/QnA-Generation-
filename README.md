@@ -19,6 +19,13 @@ This application allows users to generate question-and-answer (Q&A) pairs from e
 ---
 
 ## Installation
+1. Create a Groq Account:
+   Visit the Groq website.
+   Sign up for an account if you haven't already.
+2. Obtain the API Key:
+   Once logged into your Groq account, navigate to your dashboard.
+   Look for the API or Access Tokens section.
+   Generate a new API key from this section.
 
 1. Clone the repository:
    ```bash
