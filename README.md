@@ -18,20 +18,6 @@ This application allows users to generate question-and-answer (Q&A) pairs from e
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/qna-generator.git
-   cd qna-generator
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 ## Usage
 
 1. Run the application:
@@ -41,7 +27,7 @@ This application allows users to generate question-and-answer (Q&A) pairs from e
 2. Open the app in your browser and choose an input method:
    - Upload a PDF file to extract text.
    - Enter text manually in the provided text area.
-3. Click the "Generate Quiz" button to process the input and view the Q&A pairs.
+3. Click the "Generate" button to process the input and view the Q&A pairs.
 
 ---
 
