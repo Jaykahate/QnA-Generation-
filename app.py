@@ -5,7 +5,7 @@ from groq import Groq
 
 # Initialize the Groq client with your API key
 client = Groq(
-    api_key="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"  # Replace with your actual API key
+    api_key="use your API key"  # Replace with your actual API key
 )
 
 # Streamlit page configuration
